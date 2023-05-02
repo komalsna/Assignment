@@ -1,0 +1,55 @@
+
+body{
+    font-family: Lato,sans-serif;;
+}
+.black{
+    border: solid 2px rgb(19, 11, 11);
+}
+
+ 
+.row-height{
+    height: 45vh;
+}
+.bg-row-color
+{
+    background-color: #E4F0D3;
+}
+.font-size{
+    font-size: 3.2rem;
+}
+.input-width{
+    width: 50vw;
+}
+.inputleft {
+    padding-left:30px;
+}
+
+.iconnameleft {
+    position: relative;
+    left:25px;
+    top: 1px;
+    width: 0;
+}
+.bg-color{
+background-color: #6f43d6;
+}
+
+.footer-height{
+    height: 55vh;
+}
+.logo-size{
+    font-size: 5rem;
+  color:white;
+}
+
+
+ .text-decoration{
+    text-decoration: none;
+
+ }
+ a:visited {
+    color: black;
+  }
+  a:hover {
+    color: blue;
+  }
